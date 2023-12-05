@@ -14,4 +14,8 @@
 - [X] Confidently using AWS Console
 
 ## Challenges
-- [X] Created a napkin diagram for a CI/CD Pipeline
+- [ ] Created a napkin diagram for a CI/CD Pipeline
+- [ ] Added security considerations into the diagram
+- [X] Review all the questions of each pillars in the Well Architected Tool (No specialized lens)
+- [ ] Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. 
+
